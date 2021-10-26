@@ -13,7 +13,7 @@ export const GifApp = () => {
                     <div className="col-6 offset-3">
                         <div className="text-center mt-5">
                             <h1>
-                                <b>Gif Expert App 🎇</b>
+                                <b>Gif App 🎇</b>
                             </h1>
                         </div>
                         <hr />
